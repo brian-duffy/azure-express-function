@@ -24,4 +24,4 @@ project.lock.json
 appsettings.json
 local.settings.json
 
-/update/node_modules/*
+node_modules/*

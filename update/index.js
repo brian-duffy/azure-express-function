@@ -11,6 +11,6 @@ app.get("/api/:foo/:bar", function (req, res) {
     });
 });
 app.get("/api", function (req, res) {
-    res.send({ hello: true });
+    res.send({ updated: true });
 });
 module.exports = expressFunction.createAzureFunctionHandler(app);

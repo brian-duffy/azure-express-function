@@ -12,7 +12,7 @@ app.get("/api/:foo/:bar", (req: any, res: any) => {
     });
 });
 app.get("/api", (req: any, res: any) => {
-    res.send({ hello: true })
+    res.send({ updated: true })
 });
 
 // Binds the express app to an Azure Function handler
