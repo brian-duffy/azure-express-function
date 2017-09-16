@@ -12,7 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "azure-function-express": "^1.2.2",
-    "express": "^4.15.4"
+    "express": "^4.15.4",
+    "typescript": "^2.5.2"
   },
   "devDependencies": {
     "@types/express": "^4.0.37",
