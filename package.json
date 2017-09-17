@@ -11,8 +11,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/body-parser": "^1.16.5",
+    "@types/method-override": "0.0.30",
+    "@types/morgan": "^1.7.32",
     "azure-function-express": "^1.2.2",
+    "body-parser": "^1.18.1",
     "express": "^4.15.4",
+    "method-override": "^2.3.9",
+    "morgan": "^1.8.2",
     "typescript": "^2.5.2"
   },
   "devDependencies": {
